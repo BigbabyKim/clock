@@ -57,8 +57,8 @@
 });
 
     var cho = new Date().getSeconds() * 6 + 90;
-    var bun = new Date().getMinutes() * 6 + 90;
-    var si = new Date().getHours() >= 12 ? (new Date().getHours() - 12) * 30 + 90 : new Date().getHours() * 30 + 90;
+    var bun = new Date().getMinutes() * 6 + 90 + (new Date().getSeconds() * 6 / 60);
+    var si = new Date().getHours() * 30 + 90 + (new Date().getMinutes() * 60 + new Date().getSeconds()) * 0.5 / 60;
 
 
     function fn_clock(width) {
