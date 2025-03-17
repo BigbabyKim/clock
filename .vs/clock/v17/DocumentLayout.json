@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uAE40\uC6B0\uB7C9\\source\\repos\\clock\\",
+  "WorkspaceRootPath": "C:\\Users\\\uAE40\uC6B0\uB7C9\\source\\repos\\canvas\\clock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF81BFE5-4B55-40E9-9252-C6FB1B7F7322}|\uC194\uB8E8\uC158 \uD56D\uBAA9{FF81BFE5-4B55-40E9-9252-C6FB1B7F7322}|C:\\Users\\\uAE40\uC6B0\uB7C9\\source\\repos\\clock\\clock.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FF81BFE5-4B55-40E9-9252-C6FB1B7F7322}|\uC194\uB8E8\uC158 \uD56D\uBAA9{FF81BFE5-4B55-40E9-9252-C6FB1B7F7322}|solutionrelative:clock.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uAE40\uC6B0\uB7C9\\source\\repos\\canvas\\clock\\clock.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clock.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "clock.html",
-              "DocumentMoniker": "C:\\Users\\\uAE40\uC6B0\uB7C9\\source\\repos\\clock\\clock.html",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC6B0\uB7C9\\source\\repos\\canvas\\clock\\clock.html",
               "RelativeDocumentMoniker": "clock.html",
-              "ToolTip": "C:\\Users\\\uAE40\uC6B0\uB7C9\\source\\repos\\clock\\clock.html",
+              "ToolTip": "C:\\Users\\\uAE40\uC6B0\uB7C9\\source\\repos\\canvas\\clock\\clock.html",
               "RelativeToolTip": "clock.html",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAI0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAPQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-13T02:53:39.517Z",
               "EditorCaption": ""
